@@ -1,4 +1,4 @@
-package com.takasy.deployfm_app
+package com.takasy.deployfm
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
